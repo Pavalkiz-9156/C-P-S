@@ -7,3 +7,5 @@ There is a score information and timer.
 You have a "Shown time" checkbox to show or disable timer.
 
 # Game folder is attached to the release (it's better to download latest ;D)
+
+Subversions AND Pre-releases are marked as Pre-release!
